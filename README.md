@@ -16,7 +16,7 @@ o	IT administrators, responsible for deployment and ongoing maintenance of the a
 o	Ethics reviewers, tasked with evaluating AI transparency and potential misuse.
 o	Accessibility advocates, ensuring compliance with WCAG 2.2 and promoting inclusive design principles.
 Engaging these stakeholders throughout development ensures that the system meets both functional and ethical requirements while remaining practical for end users.
-3. Scope & Minimal Viable Artifact (2 Weeks)
+### 3. Scope & Minimal Viable Artifact (2 Weeks)
 The project is scoped to a 2-week minimal viable artifact (MVP) that delivers core functionality while maintaining professional quality and accessibility. The MVP includes:
 •	CRUD Functionality: Users can create, read, update, and delete tasks, including task title, description, due date, and completion status.
 •	Front-End Interface: A simple web interface using Django templates provides an intuitive, responsive layout.
@@ -24,15 +24,14 @@ The project is scoped to a 2-week minimal viable artifact (MVP) that delivers co
 •	AI Feature (Optional): Users can generate short task summaries or priority suggestions. All AI interactions are logged to ensure transparency and accountability.
 •	Documentation: GitHub repository with README, AI disclosure log, and a system sketch diagram to support understanding and reproducibility.
 This scope prioritizes feasibility, usability, and ethical AI integration, allowing the team to deliver a functional and testable artifact within the two-week window.
-4. Success Metrics
+### 4. Success Metrics
 To evaluate the MVP, the following criteria will be measured:
 1.	Users can successfully create, edit, delete, and view tasks without encountering errors.
 2.	The system passes WCAG 2.2 quick accessibility checks, including contrast, alt text, and ARIA labeling.
 3.	AI features are optional, clearly documented, and logged for full transparency.
 4.	Project artifacts—including the GitHub repository, documentation, and exported PDF memo—meet professional standards for clarity, completeness, and organization.
 Meeting these metrics demonstrates that the MVP satisfies both functional and ethical requirements, providing a foundation for future development or feature expansion.
-5. System Sketch
- 
+### 5. System Sketch
 The system follows a straightforward architecture:
 Flow:
 Frontend (Django templates) → Backend (Django views) → Database (SQLite, Tasks table) → Optional AI service → Logged interactions (for transparency)
@@ -40,14 +39,13 @@ Frontend (Django templates) → Backend (Django views) → Database (SQLite, Tas
 •	Backend: Processes requests, applies business logic, and manages communication with the database and AI service.
 •	Database: Stores tasks and metadata, ensuring persistent state.
 •	AI Service: Optionally processes task data to provide summaries or prioritization suggestions.
-•	Logging: Captures AI outputs and user interactions to maintain accountability and transparency.
- 
-6. Evidence Base
+•	Logging: Captures AI outputs and user interactions to maintain accountability and transparency. 
+### 6. Evidence Base
 1.	McKinsey & Company. (2023). The rise of lightweight productivity tools: Digital adoption trends in the modern workforce. McKinsey & Company. https://www.mckinsey.com
 2.	National Institute of Standards and Technology. (2023). Artificial Intelligence Risk Management Framework (AI RMF 1.0). U.S. Department of Commerce. https://www.nist.gov/ai-risk-management
 3.	World Wide Web Consortium (W3C). (2023). Web Content Accessibility Guidelines (WCAG) 2.2. https://www.w3.org/WAI/WCAG22/
 These sources provide empirical support for lightweight, accessible productivity tools and guidelines for ethical AI implementation.
-7. Risk Register
+### 7. Risk Register
 Risk	Likelihood	Impact	Mitigation
 Scope creep (adding too many features)	Medium	High	Freeze MVP to CRUD + one AI feature to maintain timeline feasibility
 Accessibility gaps	Medium	Medium	Test with WCAG 2.2 quick checks; review with a screen reader to ensure compliance
