@@ -1,11 +1,11 @@
 # Project Pitch (Task Tracker)
-To: Dr. Jeffry Babb
+**To**: Dr. Jeffry Babb
 
-From: Toluwani D. Adeoti
+**From**: Toluwani D. Adeoti
 
-Date: 9/13/2025
+**Date**: 9/13/2025
 
-Subject: Project Pitch – Accessible AI-Enhanced Task Tracker
+**Subject**: Project Pitch – Accessible AI-Enhanced Task Tracker
 
 ## Part A (Project Pitch)
 ### 1. Problem Statement
