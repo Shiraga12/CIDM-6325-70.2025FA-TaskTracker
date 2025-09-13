@@ -41,8 +41,6 @@ Meeting these metrics demonstrates that the MVP satisfies both functional and et
 The system follows a straightforward architecture:
 ![Diagram](https://github.com/Shiraga12/CIDM-6325-70.2025FA-TaskTracker/blob/main/Pictures/System%20Sketch%20-%20Diagram.png)
 
-Flow:
-Frontend (Django templates) → Backend (Django views) → Database (SQLite, Tasks table) → Optional AI service → Logged interactions (for transparency)
 -	Frontend: Provides forms and interfaces for task CRUD operations.
 -	Backend: Processes requests, applies business logic, and manages communication with the database and AI service.
 -	Database: Stores tasks and metadata, ensuring persistent state.
