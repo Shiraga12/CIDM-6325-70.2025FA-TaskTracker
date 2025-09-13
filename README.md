@@ -1,8 +1,12 @@
 # Project Pitch (Task Tracker)
-To: Dr. Jeffry Babb /n
-From: Toluwani D. Adeoti \n
-Date: 9/13/2025 \n
-Subject: Project Pitch – Accessible AI-Enhanced Task Tracker \n
+To: Dr. Jeffry Babb
+
+From: Toluwani D. Adeoti
+
+Date: 9/13/2025
+
+Subject: Project Pitch – Accessible AI-Enhanced Task Tracker
+
 ## Part A (Project Pitch)
 ### 1. Problem Statement
 Students and early-career professionals often face multiple competing responsibilities, including coursework, job obligations, and personal projects. Managing these tasks efficiently requires tools that are both simple to use and reliable. While numerous project management platforms exist—such as Jira, Trello, and Asana—these systems are often feature-rich and complex, presenting steep learning curves that can deter users seeking lightweight task tracking. Moreover, many of these platforms do not consistently implement accessibility standards, making them less inclusive for users with disabilities.
