@@ -1,5 +1,5 @@
 # Project Pitch (Task Tracker)
-To: Dr. Jeffry Babb \n
+To: Dr. Jeffry Babb /n
 From: Toluwani D. Adeoti \n
 Date: 9/13/2025 \n
 Subject: Project Pitch – Accessible AI-Enhanced Task Tracker \n
