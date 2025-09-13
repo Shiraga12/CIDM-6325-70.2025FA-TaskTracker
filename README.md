@@ -39,7 +39,7 @@ To evaluate the MVP, the following criteria will be measured:
 Meeting these metrics demonstrates that the MVP satisfies both functional and ethical requirements, providing a foundation for future development or feature expansion.
 ### 5. System Sketch
 The system follows a straightforward architecture:
-![Screenshot]("https://github.com/Shiraga12/CIDM-6325-70.2025FA-TaskTracker/Pictures/System Sketch - Diagram.png")
+![Screenshot](https://github.com/Shiraga12/CIDM-6325-70.2025FA-TaskTracker/blob/main/Pictures/System%20Sketch%20-%20Diagram.png)
 Flow:
 Frontend (Django templates) → Backend (Django views) → Database (SQLite, Tasks table) → Optional AI service → Logged interactions (for transparency)
 -	Frontend: Provides forms and interfaces for task CRUD operations.
